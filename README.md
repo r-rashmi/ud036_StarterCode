@@ -1,2 +1,3 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# Udacity Movie Trailer Website
+Forked from ud036_StarterCode
+
